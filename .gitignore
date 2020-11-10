@@ -6,6 +6,9 @@
 # production
 ./frontend/build
 
+# Software
+./frontend/.vscode
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
